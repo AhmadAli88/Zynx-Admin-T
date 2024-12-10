@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 10 Dec 2024 18:30:40 at https://codeigniter.spruko.com/zynix/zynix/index +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://codeigniter.spruko.com/zynix/zynix/index -O1 "C:\Users\Xeven\Downloads\Zynx Admin Template" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:35:47	Error: 	"Not Found" (404) at link https://codeigniter.spruko.com/zynix/zynix/assets/images/marketplace/deals/1.png (from https://codeigniter.spruko.com/zynix/zynix/assets/css/styles.css)
+18:35:47	Error: 	"Not Found" (404) at link https://codeigniter.spruko.com/zynix/zynix/assets/images/realestate/3.png (from https://codeigniter.spruko.com/zynix/zynix/assets/css/styles.css)
+18:36:15	Error: 	"Not Found" (404) at link https://codeigniter.spruko.com/zynix/zynix/twitter.com/wcsrm.me (from https://codeigniter.spruko.com/zynix/zynix/profile)
+18:36:16	Error: 	"Not Found" (404) at link https://codeigniter.spruko.com/zynix/zynix/ecommerce-details (from https://codeigniter.spruko.com/zynix/zynix/product-details)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 55 seconds : 826 links scanned, 821 files written (102553795 bytes overall) [60425878 bytes received at 170213 bytes/sec], 46814277 bytes transferred using HTTP compression in 201 files, ratio 9%, 37.5 requests per connection
+(4 errors, 0 warnings, 0 messages)
